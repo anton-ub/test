@@ -1,8 +1,5 @@
 
-print('bye')
-print('..www..')
-#print(;;)
-
+1
 
 
 
